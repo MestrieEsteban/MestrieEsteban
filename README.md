@@ -42,5 +42,6 @@ ___
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MestrieEsteban&theme=radical" />
 </a>
 <br><br>
+<a href="https://app.daily.dev/Esteban_"><img src="https://api.daily.dev/devcards/4ad39fb44f4d4f079123cbda07ecc486.png?r=o9y" width="400" alt="Esteban Mestrie's Dev Card"/></a>
 
 
