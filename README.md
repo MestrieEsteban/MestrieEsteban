@@ -29,14 +29,14 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-___
+<!--___
 <summary>Github Stats</summary>
 <br>
 
 <a href="https://github.com/MestrieEsteban">
 <img align="center" alt="Esteban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MestrieEsteban&show_icons=true&theme=radical" /></a>
 <a href="https://app.daily.dev/Esteban_"><img src="https://api.daily.dev/devcards/4ad39fb44f4d4f079123cbda07ecc486.png?r=o9y" width="400" alt="Esteban Mestrie's Dev Card"/></a>
-<!-- <a href="https://github.com/MestrieEsteban">
+ <a href="https://github.com/MestrieEsteban">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestrieEsteban&langs_count=8&theme=radical" />
 </a>
 <a href="https://github.com/MestrieEsteban">
